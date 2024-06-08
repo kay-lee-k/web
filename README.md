@@ -10,12 +10,10 @@
 
 ### 도움말
 
-* Poster
+Poster
 * **포스터 사진 클릭 시 detail 화면으로 이동합니다.**
-* Timeline
+Timeline
 * **
 
 ### 라이선스
-
-* **all rights reserved to Kaylee Kim** 
-
+all rights reserved to Kaylee Kim
