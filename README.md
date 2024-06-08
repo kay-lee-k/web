@@ -4,7 +4,7 @@
 ### 소개
 **Conference Record Page:이제까지 참석한 학회를 기록한 웹페이지** 
 
-링크:[[https://github.com/index](https://kay-lee-k.github.io/web/)]
+링크:[[https://kay-lee-k.github.io/web/](https://kay-lee-k.github.io/web/)]
 
 
 ### 시작하기
